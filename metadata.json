@@ -1,0 +1,8 @@
+{
+  "name": "বাংলা স্বাস্থ্য সহকারী",
+  "description": "প্রেসক্রিপশন, ওষুধের সময় এবং স্বাস্থ্য রিপোর্ট সহজে বাংলায় বোঝার জন্য একটি এআই সহকারী।",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}

@@ -1,0 +1,20 @@
+# Deployment Guide
+
+## Local Run
+
+npm install
+npm run dev
+
+## Build
+
+npm run build
+
+## Deploy on Vercel
+
+1. Upload this folder to Vercel
+2. Add Environment Variable:
+
+VITE_GEMINI_API_KEY=your_api_key
+
+3. Deploy
+
